@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 100" width="520" height="100">
+  <defs>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F8B8D" />
+      <stop offset="100%" stop-color="#172126" />
+    </linearGradient>
+    <linearGradient id="amberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3B543" />
+      <stop offset="100%" stop-color="#E3A62F" />
+    </linearGradient>
+  </defs>
+  <!-- Icon Emblem -->
+  <g transform="translate(10, 10)">
+    <!-- Home Roofline & Frame -->
+    <rect x="0" y="0" width="80" height="80" rx="18" fill="#172126" />
+    <path d="M22 46 L40 28 L58 46 V66 H22 Z" fill="none" stroke="#0F8B8D" stroke-width="4" stroke-linejoin="round" />
+    <!-- Appliance Wrench / Gear Accent -->
+    <circle cx="40" cy="50" r="8" fill="none" stroke="#E3A62F" stroke-width="3.5" />
+    <path d="M40 38 V42 M40 58 V62 M28 50 H32 M48 50 H52" stroke="#E3A62F" stroke-width="3" stroke-linecap="round" />
+    <circle cx="40" cy="50" r="3" fill="#FFFFFF" />
+    <circle cx="62" cy="20" r="5" fill="#E3A62F" />
+  </g>
+  <!-- Text Lockup -->
+  <text x="108" y="46" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="26" font-weight="800" fill="#172126" letter-spacing="-0.5">SAN JOSE</text>
+  <text x="234" y="46" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="26" font-weight="800" fill="#0F8B8D" letter-spacing="-0.5">APPLIANCES</text>
+  <text x="108" y="72" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#E3A62F" letter-spacing="3.5">REPAIR SERVICE</text>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "San Jose Appliances Repair",
+  "description": "Professional home appliance repair service in San Jose, CA. Specializing in refrigerators, dishwashers, washers, dryers, ovens, stoves, ranges, and freezers. Call (833) 327-1076.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
